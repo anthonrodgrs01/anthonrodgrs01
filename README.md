@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, I'm Anthon Rodrigues 👋
 
-<!--
-**anthonrodgrs01/anthonrodgrs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Collectible,
+- 🌱 I’m currently learning MERN stack,
+- 👯 I’m looking to collaborate on Open Source Projects,
+- 🤔 I’m looking for help with ReactJS,
+- 💬 Ask me about Front-End Web Development or any tech related stuff,
+- 📫 How to reach me: Email - anthonrodgrs01@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love binge watching - favourite: Game of Thrones
+
